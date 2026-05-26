@@ -10,3 +10,8 @@
 > An additional feature included in this project is output image saving. The detected frame is automatically saved as an image file named output.jpg, which can later be uploaded to GitHub, included in project reports, or used for documentation purposes. This feature helps in storing detection results for future reference and project demonstrations.
 
 > The project provides hands-on experience with machine learning, deep learning, and computer vision concepts. It also helps in understanding how AI models can process visual data and make intelligent decisions in real time. Overall, the Object Detection and Tracking System is an efficient and practical AI-based application that demonstrates the power of modern computer vision technologies.
+
+
+<img width="1792" height="1120" alt="Image" src="https://github.com/user-attachments/assets/39616b2d-4d08-41f8-8c0b-34d4216079c8" />
+
+<img width="1792" height="1120" alt="Image" src="https://github.com/user-attachments/assets/15235b6d-36bf-4bf8-aea4-ab3a0c60a6a2" />
